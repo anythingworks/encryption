@@ -1,3 +1,4 @@
+# alpha encoding
 encodings = {
              'a': '101',
              'b': '102',
